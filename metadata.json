@@ -1,0 +1,6 @@
+{
+  "name": "Obsidian Soundcraft",
+  "description": "Professional browser-native Digital Audio Workstation featuring Piano Roll Sequencer, Multitrack Arranger, Virtual Instruments Hub, and 32-bit Mastering Mixer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
